@@ -1,0 +1,11 @@
+{
+	"allowed_domains": ["tw.mall.yahoo.com"],
+	"start_urls": ["https://tw.mall.yahoo.com/search?m=list&sid=queenshop&s=-createtime&view=both"],
+	"listAllItmesByLaunchTimeUrls": [
+		"https://tw.mall.yahoo.com/search?m=list&sid={sid}&s=-createtime&view=both",
+		"https://tw.mall.yahoo.com/search?m=list&sid={sid}&s=-createtime&view=both&b=48",
+		"https://tw.mall.yahoo.com/search?m=list&sid={sid}&s=-createtime&view=both&b=96",
+		"https://tw.mall.yahoo.com/search?m=list&sid={sid}&s=-createtime&view=both&b=144",
+		"https://tw.mall.yahoo.com/search?m=list&sid={sid}&s=-createtime&view=both&b=192"
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"shops": [
+		{
+			"sid": "queenshop",
+			"icon": "https://s.yimg.com/ut/api/res/1.2/SajARdR8qQNluRVHf.xzYQ--~B/YXBwaWQ9eXR3bWFsbDtjYz0zMTUzNjAwMDtoPTE0NDtxPTkwO3c9MTQ0/https://s.yimg.com/fy/fffe/mthumb/queenshop-mthumb-7a02xf4x0144x0144_m.jpg"
+		},
+		{
+			"sid": "inshop",
+			"icon": "https://s.yimg.com/ut/api/res/1.2/y693k.FtUWidxl3mMo5wOA--~B/YXBwaWQ9eXR3bWFsbDtjYz0zMTUzNjAwMDtoPTE0NDtxPTkwO3c9MTQ0/https://s.yimg.com/fy/a4d7/mthumb/inshop-mthumb-f20cxf4x0144x0144_m.jpg"
+		},
+		{
+			"sid": "airspace",
+			"icon": "https://s.yimg.com/ut/api/res/1.2/fYWuD5Ja69TU2gHWgzm5Ig--~B/YXBwaWQ9eXR3bWFsbDtjYz0zMTUzNjAwMDtoPTE0NDtxPTkwO3c9MTQ0/https://s.yimg.com/fy/dd97/mthumb/airspace-mthumb-c0f3xf4x0144x0144_m.jpg"
+		},
+		{
+			"sid": "style9",
+			"icon": "https://s.yimg.com/f/i/tw/mall/yps/m_shortcut_00.png"
+		},
+		{
+			"sid": "pufii",
+			"icon": "https://s.yimg.com/ut/api/res/1.2/3i6NdBPP30oizV17REy3XQ--~B/YXBwaWQ9eXR3bWFsbDtjYz0zMTUzNjAwMDtoPTE0NDtxPTkwO3c9MTQ0/https://s.yimg.com/fy/b011/mthumb/pufii-mthumb-ea00xf4x0144x0144_m.jpg"
+		},
+		{
+			"sid": "fiveminstw",
+			"icon": "https://s.yimg.com/ut/api/res/1.2/x2EuPnGp0chkJ91qgNgFgw--~B/YXBwaWQ9eXR3bWFsbDtjYz0zMTUzNjAwMDtoPTE0NDtxPTkwO3c9MTQ0/https://s.yimg.com/fy/bfb2/mthumb/fiveminstw-mthumb-0641xf4x0144x0144_m.jpg"
+		},
+		{
+			"sid": "bigi0107888",
+			"icon": "https://s.yimg.com/ut/api/res/1.2/uMtX_xzrpZe7hVhuOi3bnw--~B/YXBwaWQ9eXR3bWFsbDtjYz0zMTUzNjAwMDtoPTE0NDtxPTkwO3c9MTQ0/https://s.yimg.com/fy/a459/mthumb/bigi0107888-mthumb-9fa4xf4x0144x0144_m.jpg"
+		},
+		{
+			"sid": "lulus",
+			"icon": "https://s.yimg.com/ut/api/res/1.2/f.aiHuHFh3Rfrq04rjfCog--~B/YXBwaWQ9eXR3bWFsbDtjYz0zMTUzNjAwMDtoPTE0NDtxPTkwO3c9MTQ0/https://s.yimg.com/fy/4e55/mthumb/lulus-mthumb-505exf4x0144x0144_m.jpg"
+		}
+	]
+}
